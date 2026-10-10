@@ -1,0 +1,6 @@
+/data/*.sqlite
+/data/*.sqlite-*
+/data/*.log
+/tests/*.log
+.preview/
+/data/profile-photos/
