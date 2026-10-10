@@ -1,0 +1,1 @@
+# SCK-STI-GLOBAL
